@@ -1,0 +1,27 @@
+{
+  "name": "steam-checkup",
+  "version": "1.0.0",
+  "description": "A small utility which checks current status of given Steam account",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pt002/steam-checkup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pt002/steam-checkup/issues"
+  },
+  "homepage": "https://github.com/pt002/steam-checkup#readme",
+  "dependencies": {
+    "columnify": "^1.5.4",
+    "minimist": "^1.2.0",
+    "sprintf-js": "^1.1.1",
+    "steam-user": "^3.28.1",
+    "tf2": "^2.1.2"
+  }
+}
