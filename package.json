@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pt002/steam-checkup.git"
+    "url": "git+https://github.com/ktcf/steam-checkup.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pt002/steam-checkup/issues"
+    "url": "https://github.com/ktcf/steam-checkup/issues"
   },
-  "homepage": "https://github.com/pt002/steam-checkup#readme",
+  "homepage": "https://github.com/ktcf/steam-checkup#readme",
   "dependencies": {
     "columnify": "^1.5.4",
     "minimist": "^1.2.0",
